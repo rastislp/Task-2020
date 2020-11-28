@@ -1,5 +1,7 @@
 # Task-2020
-### Machine learning and Statistics ( Jupyter notebook)
+### Fundamental of data Analysis ( Jupyter notebook)
+
+File name: Fundamental_of_Data_Analysis.ipynb
 
 Rastislav Petras (G00252861)
 
